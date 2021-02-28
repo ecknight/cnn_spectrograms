@@ -1,4 +1,6 @@
-rm(list=ls())
+#title: Analysis and figures for Knight et al. Pre-processing spectrogram parameters improve the accuracy of bioacoustic classification using convolutional neural networks. Bioacoustics 10.1080/09524622.2019.1606734.
+#author: Elly C. Knight
+#date: May 14, 2017
 
 library(tidyverse)
 library(stringi)
